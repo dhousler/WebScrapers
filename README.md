@@ -6,9 +6,16 @@ This script provides the url paths for the NAPs
 - link
 - download
 
-### Run Script
-`Python WHO_NAPs-Africa.py`
+**Packages:**
+```
+pip install requests
+pip install beautifulsoup4
+```
 
+### Run Script
+```
+python WHO_NAPs-Africa.py
+```
 ### Input at command line: 
 The country names as a comma separated list.
 e.g.,
