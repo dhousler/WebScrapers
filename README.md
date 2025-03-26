@@ -9,7 +9,8 @@ This script provides the url paths for the NAPs
 ### Run Script
 `Python WHO_NAPs-Africa.py`
 
-### Input at command line: `the country names as a comma separated list.`
+### Input at command line: 
+The country names as a comma separated list.
 e.g.,
 ```
 Enter countries (comma separated): Algeria, Zambia, Zimbabwe
